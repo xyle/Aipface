@@ -1,0 +1,19 @@
+{
+    "name": "xyle/aipface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xyle",
+            "email": "2262078363@qq.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"Xyle\\Aipface\\": "src/"
+		}
+	}
+}
