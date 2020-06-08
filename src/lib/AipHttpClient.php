@@ -1,5 +1,6 @@
 <?php
-namespace Aipface\lib;
+namespace Xyle\Aipface\lib;
+
 use Exception;
 /*
 * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved

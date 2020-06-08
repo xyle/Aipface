@@ -1,6 +1,7 @@
 <?php
-namespace Aipface\lib;
-use Aipface\lib\AipHttpClient;
+namespace Xyle\Aipface\lib;
+
+use Xyle\Aipface\lib\AipHttpClient;
 use Exception;
 /*
 * Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
