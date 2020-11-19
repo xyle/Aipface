@@ -1,7 +1,7 @@
 <?php
-namespace Xyle\Aipface;
+namespace Xyle\Aip;
 
-use Xyle\Aipface\lib\AipBase;
+use Xyle\Aip\lib\AipBase;
 
 
 /*

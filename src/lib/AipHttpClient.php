@@ -1,5 +1,5 @@
 <?php
-namespace Xyle\Aipface\lib;
+namespace Xyle\Aip\lib;
 
 use Exception;
 /*
